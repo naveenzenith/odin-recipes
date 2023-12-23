@@ -2,4 +2,4 @@
 #  link
 https://naveenzenith.github.io/odin-recipes/
 # About
-A simple Only HTML webpage made during the foundations course on the Odin Project. Clicking on a recipe link will show the instructions and ingredients required to make the dish.
+A basic HTML webpage was created as part of a web development learning process, focused on showcasing recipes. Each recipe link, when clicked, reveals detailed instructions and the list of ingredients needed to prepare the dish.
