@@ -1,0 +1,35 @@
+html{
+    background-color:azure;
+}
+.body{
+    width:75%;
+    margin:0 auto;
+    text-align:center;
+}
+h1 {
+    border-style: solid;
+    background-color: rgb(115, 115, 109);
+    color:white;
+    font-family: sans-serif;
+    border-radius:10px;
+    
+}
+img{
+    border-radius: 10px;
+}
+ol{
+    list-style-position: inside;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
+h2{
+    font-family: sans-serif;
+    color:brown;
+}
+.list {
+    padding:0px 400px;
+    text-align:left;
+}
