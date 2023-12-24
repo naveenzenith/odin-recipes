@@ -28,8 +28,9 @@ a{
 h2{
     font-family: sans-serif;
     color:brown;
+    text-align: center; 
 }
 .list {
-    padding:0px 400px;
+    padding-left:30%;
     text-align:left;
 }
